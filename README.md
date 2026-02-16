@@ -70,17 +70,17 @@ src/
 
 # 🚀 Quick Start
 
-***Clone repository***
+- ***Clone repository***
 
 git clone https://github.com/beingtaha/NFT-Gallery_Appverse-Internship-Project.git
 
-***Install dependencies***
+- ***Install dependencies***
 
 cd NFT-Gallery_Appverse-Internship-Project
 
 npm install
 
-***Start app***
+- ***Start app***
 
 npm start
 
