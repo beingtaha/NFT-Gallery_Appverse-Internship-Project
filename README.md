@@ -1,4 +1,4 @@
-**🎨 NFT Gallery**
+***🎨 NFT Gallery***
 
 A React-based NFT gallery with filtering, sorting, and a details page. Built during Appverse Technologies Internship.
 
@@ -13,7 +13,7 @@ A React-based NFT gallery with filtering, sorting, and a details page. Built dur
 
 --------------------------------------------------------------------------------------
 
-**✨ Features**
+***✨ Features***
 
 ✅ NFT Gallery Grid - Cards with image, name, artist, price (PKR)
 
@@ -33,7 +33,7 @@ A React-based NFT gallery with filtering, sorting, and a details page. Built dur
 
 -------------------------------------------------------------------------
 
-**🛠️ Tech Stack**
+***🛠️ Tech Stack***
 
 - React 18 with Hooks (useState)
 
@@ -43,29 +43,47 @@ A React-based NFT gallery with filtering, sorting, and a details page. Built dur
 
 - Create React App
 
-📁 Project Structure
-text
+----------------------------------------------------------------------------
+
+***📁 Project Structure***
 src/
+
 ├── components/
+
 │   ├── NFTCard.js         # Individual NFT card
+
 │   ├── FilterBar.js        # Filter dropdowns
+
 │   ├── SortBar.js          # Sort dropdown
+
 │   └── NFTDetails.js       # Details modal
+
 ├── data/
+
 │   └── nftData.js          # NFT collection
+
 ├── App.js                  # Main component
+
 └── App.css                 # Styling
-🚀 Quick Start
-bash
+
+-------------------------------------------------------------------
+
+***🚀 Quick Start***
+
 # Clone repository
+
 git clone https://github.com/beingtaha/NFT-Gallery_Appverse-Internship-Project.git
 
 # Install dependencies
+
 cd NFT-Gallery_Appverse-Internship-Project
+
 npm install
 
 # Start app
+
 npm start
+
 Then open http://localhost:3000
 
 📱 How to Use
