@@ -13,24 +13,35 @@ A React-based NFT gallery with filtering, sorting, and a details page. Built dur
 
 --------------------------------------------------------------------------------------
 
-✨ Features
+**✨ Features**
+
 ✅ NFT Gallery Grid - Cards with image, name, artist, price (PKR)
+
 ✅ Filter by Artist - CryptoArtist, PixelMaster, WildArt, etc.
+
 ✅ Filter by Category - Art, Collectible, Rare
+
 ✅ Sort by Price - Low to High / High to Low
+
 ✅ Sort by Name - A to Z / Z to A
+
 ✅ Details Modal - Full info on click
+
 ✅ Responsive Design - Mobile, tablet, desktop
+
 ✅ Modern UI - Smooth hover effects and animations
 
-🛠️ Tech Stack
-React 18 with Hooks (useState)
+-------------------------------------------------------------------------
 
-CSS3 with Grid & Flexbox
+**🛠️ Tech Stack**
 
-JavaScript ES6+
+- React 18 with Hooks (useState)
 
-Create React App
+- CSS3 with Grid & Flexbox
+
+- JavaScript ES6+
+
+- Create React App
 
 📁 Project Structure
 text
