@@ -1,4 +1,4 @@
-***🎨 NFT Gallery***
+# 🎨 NFT Gallery
 
 A React-based NFT gallery with filtering, sorting, and a details page. Built during Appverse Technologies Internship.
 
