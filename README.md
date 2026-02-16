@@ -110,17 +110,17 @@ Then open http://localhost:3000
 
 - Pixel Penguin	PixelMaster	15,000	Collectible
 
-- Cyber Cat	NeonArtist	40,000	Art
+- Cyber Cat	NeonArtist 	40,000	Art
 
-- Majestic Gorilla	WildArt	60,000	Art
+- King Lion	WildArt 	60,000	Art
   
 - Abstract Mind	CryptoArtist	30,000	Art
 
 - Dragon Egg	FantasyArt	125,000	Rare
 
-- Neon City	CyberPunk	45,000	Art
+- Neon City	CyberPunk 	45,000	Art
 
-- Crypto Punk #42	PunkLabs	160,000	Collectible
+- Crypto Punk	PunkLabs	160,000	Collectible
 
 ------------------------------------------------------------------------------
 
