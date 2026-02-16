@@ -13,7 +13,7 @@ A React-based NFT gallery with filtering, sorting, and a details page. Built dur
 
 --------------------------------------------------------------------------------------
 
-***✨ Features***
+# ✨ Features
 
 ✅ NFT Gallery Grid - Cards with image, name, artist, price (PKR)
 
@@ -33,7 +33,7 @@ A React-based NFT gallery with filtering, sorting, and a details page. Built dur
 
 -------------------------------------------------------------------------
 
-***🛠️ Tech Stack***
+# 🛠️ Tech Stack
 
 - React 18 with Hooks (useState)
 
@@ -45,7 +45,7 @@ A React-based NFT gallery with filtering, sorting, and a details page. Built dur
 
 ----------------------------------------------------------------------------
 
-***📁 Project Structure***
+# 📁 Project Structure
 src/
 
 ├── components/
@@ -68,64 +68,75 @@ src/
 
 -------------------------------------------------------------------
 
-***🚀 Quick Start***
+# 🚀 Quick Start
 
-# Clone repository
+***Clone repository***
 
 git clone https://github.com/beingtaha/NFT-Gallery_Appverse-Internship-Project.git
 
-# Install dependencies
+***Install dependencies***
 
 cd NFT-Gallery_Appverse-Internship-Project
 
 npm install
 
-# Start app
+***Start app***
 
 npm start
 
 Then open http://localhost:3000
 
-📱 How to Use
-Step	Action	What Happens
-1	Browse gallery	View NFT cards
-2	Select filter	Show only selected artist/category
-3	Choose sort	Reorder NFTs by price or name
-4	Click card	Open details modal
-📊 NFT Collection
-Name	Artist	Price (PKR)	Category
-Cosmic Dreamer	CryptoArtist	25,000	Art
-Pixel Penguin	PixelMaster	15,000	Collectible
-Cyber Cat	NeonArtist	40,000	Art
-Majestic Gorilla	WildArt	60,000	Art
-Abstract Mind	CryptoArtist	30,000	Art
-Dragon Egg	FantasyArt	125,000	Rare
-Neon City	CyberPunk	45,000	Art
-Crypto Punk #42	PunkLabs	160,000	Collectible
-🧠 State Management (useState)
-javascript
-// Main state variables
-const [filteredNfts, setFilteredNfts] = useState(nftCollection);
-const [selectedNft, setSelectedNft] = useState(null);
-const [filters, setFilters] = useState({ artist: 'all', category: 'all' });
-const [sortBy, setSortBy] = useState('default');
-📱 Responsive Design
-Device	Screen	Grid Columns
-Mobile	< 480px	1 column
-Tablet	480-768px	2 columns
-Desktop	> 768px	3-4 columns
-📸 Screenshots
-text
-[Gallery View]    [Filter Dropdown]    [Details Modal]
-(Add your actual screenshots here)
+------------------------------------------------------------------------
 
-👨‍💻 Developer
-Taha Ahmed
-Internship ID: JAN26-FE14-14
-Appverse Technologies
-LinkedIn | GitHub
+# 📱 How to Use
 
-📄 License
-MIT License | Educational Project | Appverse Technologies Internship
+***Step	Action	What Happens**
 
-⭐ If you like this project, please star it on GitHub!
+1	Browse gallery	View NFT cards.
+
+2	Select filter	Show only selected artist/category.
+
+3	Choose sort	Reorder NFTs by price or name.
+
+4	Click card	Open details modal.
+
+-------------------------------------------------------------------------
+
+# 📊 NFT Collection
+
+- Name	Artist	Price (PKR)	Category
+
+- Cosmic Dreamer	CryptoArtist	25,000	Art
+
+- Pixel Penguin	PixelMaster	15,000	Collectible
+
+- Cyber Cat	NeonArtist	40,000	Art
+
+- Majestic Gorilla	WildArt	60,000	Art
+  
+- Abstract Mind	CryptoArtist	30,000	Art
+
+- Dragon Egg	FantasyArt	125,000	Rare
+
+- Neon City	CyberPunk	45,000	Art
+
+- Crypto Punk #42	PunkLabs	160,000	Collectible
+
+------------------------------------------------------------------------------
+
+# 👨‍💻 Developer: Taha Ahmed
+
+# 🐙 GitHub: @beingtaha
+
+# 📌 Internship ID: JAN26-FE14-14
+
+# 🏢 Appverse Technologies Intern
+
+---------------------------------------------------------------------------------------
+
+# 📄 Note
+This project is created for educational purposes as part of the Appverse Technologies Internship Program.
+
+----------------------------------------------------------------------------------------
+
+# ⭐ If you find this helpful, consider giving it a star!
